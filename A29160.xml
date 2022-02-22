@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the parish church of St. Martins Ludgate, Sept. 12, 1695 before the Incorporated Society of Apothecaries of London / by Nicholas Brady.</title>
+            <author>Brady, Nicholas, 1659-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29160</idno>
+            <idno type="STC">Wing B4179</idno>
+            <idno type="STC">ESTC R24217</idno>
+            <idno type="EEBO-CITATION">08076432</idno>
+            <idno type="OCLC">ocm 08076432</idno>
+            <idno type="VID">40800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40800)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1223:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the parish church of St. Martins Ludgate, Sept. 12, 1695 before the Incorporated Society of Apothecaries of London / by Nicholas Brady.</title>
+                  <author>Brady, Nicholas, 1659-1726.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Parker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the request of the Society."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXXXIII, 1-2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40800:1"/>
+            <p>A SERMON Preach'd at the Pariſh Church of <hi>St. Martins Ludgate, SEPT.</hi> 12. 1695. Before the Incorporated Society OF Apothecaries of London.</p>
+            <p>By <hi>Nicholas Brady,</hi> M. A. Miniſter of St. <hi>Cathe<g ref="char:EOLhyphen"/>rine Cree-Church,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſhed at the Requeſt of the Society.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Parker,</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn,</hi> un<g ref="char:EOLhyphen"/>der the <hi>Piazza</hi> of the <hi>Royal Exchange.</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40800:2"/>
+            <pb facs="tcp:40800:2"/>
+            <head>To the Worſhipful, the Maſter and Wardens, the Court of Aſſiſtants, Gentlemen of the Livery, and Free<g ref="char:EOLhyphen"/>men, of the Ingenious Society of Apothecaries of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THis diſcourſe, as it was <hi>preached</hi> at your kind requeſt, ſo it is now, however unfit for the general view, in compliance with your obliging importu<g ref="char:EOLhyphen"/>nity, <hi>made publick:</hi> nor could I in ju<g ref="char:EOLhyphen"/>ſtice refuſe you the diſpoſal of that, which was purpoſely compoſed for your entertain<g ref="char:EOLhyphen"/>ment. The ſubject of it, <hi>Unity,</hi> is (Bleſſed be God) as fully exemplified in your Society, as in any Corporation through<g ref="char:EOLhyphen"/>out the City; and therefore the motives to
+<pb facs="tcp:40800:3"/>it, which the following diſcourſe offers, are rather to be taken for <hi>tacite com<g ref="char:EOLhyphen"/>mendations</hi> of your laudable performance, than <hi>reflections</hi> or <hi>remembrancers</hi> for your omiſſion of this Duty. That you may ſtill continue eminently remarkable, for an intimate <g ref="char:V">Ʋ</g>nion and agreement amongſt <hi>yourſelves,</hi> and influence others by your good Example, to the happy compoſing of all Diviſions <hi>among them;</hi> ſhall be the conſtant hearty Prayer, of,</p>
+            <closer>
+               <signed>
+                  <hi>Gentlemen, Your Obliged Servant, and Sincere Well-wiſher,</hi> N. Brady.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:40800:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal. CXXXIII. 1, 2.</hi>
+                  </bibl>
+                  <p n="1">
+                     <hi>1.</hi> Behold how good and pleaſant it is for Brethren to dwell together in <g ref="char:V">Ʋ</g>nity!</p>
+                  <p n="2">
+                     <hi>2.</hi> It is like the precious Oyntment upon the head, which ran down upon the beard, even Aarons beard that went down to the skirts of his garments.</p>
+               </q>
+            </epigraph>
+            <p>THere is nothing, in my opinion, in which the Wiſdom of this City is more eminently conſpicuous, no<g ref="char:EOLhyphen"/>thing that more effectually contributes to the ſupporting of its grandeur, and to the maintenance of its proſperity, than the regu<g ref="char:EOLhyphen"/>lar deſtribution of its ſeveral members into diſtinct Societies and Corporations: By this means, the peculiar conveniences of each are much better conſulted, their various inte<g ref="char:EOLhyphen"/>reſts more cloſely united, and mutual offices
+<pb n="2" facs="tcp:40800:4"/>of brotherly affection performed more frc<g ref="char:EOLhyphen"/>quently and more eaſily, than if they were left after a looſer manner, under the inſpecti<g ref="char:EOLhyphen"/>on only of a general Magiſtracy: For that, being obliged to have a publick influence, and ſuſtaining a character that is univerſal, cannot be ſuppoſed to pry ſo nicely into pri<g ref="char:EOLhyphen"/>vate concernments, to underſtand them ſo throughly, or to watch over them ſo ſuc<g ref="char:EOLhyphen"/>ceſsfully, as thoſe, who acting in a narrower ſphere, being qualified by Education, and engaged by Intereſt, are both enabled and concerned to promote the advantages of thoſe particular Societies, whoſe Guardian<g ref="char:EOLhyphen"/>ſhips they manage, and of which themſelves are incorporated members.</p>
+            <p>'Tis in purſuance of this wiſe and commend<g ref="char:EOLhyphen"/>able conſtitution, that the ſeveral members of this preſent Society, which juſtly deſerves an honourable mention among the moſt emi<g ref="char:EOLhyphen"/>nent of this City, are this day unanimouſly aſ<g ref="char:EOLhyphen"/>ſembled; and 'tis in conformity to a religious cuſtom, of hallowing ſuch meetings with a mixture of devotion, that we are aſſembled together in the houſe of God. Love, then,
+<pb n="3" facs="tcp:40800:4"/>and Amity, and Brotherly kindneſs, have been your conducters to this place, and they are like to be your entertainment in it: Since nothing appears to me more natural, than upon the Proſpect of an Aſſembly ſo cordial<g ref="char:EOLhyphen"/>ly united, by all the bonds of intereſt and affection, to break out into the Pſalmiſts rapturous exclamation, <hi>Behold, how good and pleaſant it is, for brethren to dwell together in <g ref="char:V">Ʋ</g>nity! It is like the precious Oyntment upon the head, that ran down upon the beard, even Aarons heard, that went down to the skirts of his garments!</hi>
+            </p>
+            <p>In my following diſcourſe upon which words, I ſhall make uſe of this eaſie me<g ref="char:EOLhyphen"/>thod.</p>
+            <p>Firſt, I ſhall examine the duty here enjoyn<g ref="char:EOLhyphen"/>ed, and preſs its practice, from ſuch mo<g ref="char:EOLhyphen"/>tives to it, as are contained in the words of my Text. <hi>Behold how good and pleaſant it is for Brethren to dwell together in <g ref="char:V">Ʋ</g>nit.</hi>
+            </p>
+            <p>Secondly, I ſhall conſider the elegant al<g ref="char:EOLhyphen"/>luſion, which the Pſalmiſt makes uſe of to illuſtrate and recommend it, and ſhall ob<g ref="char:EOLhyphen"/>ſerve its agreeableneſs with the preſent occa<g ref="char:EOLhyphen"/>ſion.
+<pb n="4" facs="tcp:40800:5"/>
+               <hi>It is like the precious Oyntment upon the head, which ran down upon the beard, even Aa<g ref="char:EOLhyphen"/>rons beard that went down to the skirts of his garments.</hi>
+            </p>
+            <p>Firſt, then, I ſhall examine the duties here enjoyn'd; and preſs its practice, from ſuch motives to it, as are contained in the words of my Text. <hi>Behold how good and pleaſant it is for Brethren to dwell together in <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>Unity is that inviſible band and cement of Souls, which makes the deſigns and intereſts of ſeveral perſons, become inſeparable, and of a piece; from hence reſults that agreeable Harmony of actions, which cauſes all their affairs to be amicably tranſacted, without any diſorder or confuſion: from this ariſes that complacency and ſatisfaction, which one takes in the advantages of another, which by this happy temper are made his own: This baniſhes all murmurings and re<g ref="char:EOLhyphen"/>pinings at the enjoyments of our neighbour, roots out all diſſentions and animoſities, and introduces in their ſtead, an affectionate re<g ref="char:EOLhyphen"/>gard for the concernments of others, a ten<g ref="char:EOLhyphen"/>der fellow-feeling of their ſeveral conditions,
+<pb n="5" facs="tcp:40800:5"/>and an induſtrious willingneſs to promote their happineſs, and to conſult it as carefully, as if it were our own This is that commend<g ref="char:EOLhyphen"/>able diſpoſition of mind, to which the Pſalm<g ref="char:EOLhyphen"/>iſt exhorts us in the words of my Text, where he adviſes us <hi>to dwell together in <g ref="char:V">Ʋ</g>nity;</hi> and wherein he recommends to us the practice of it, by theſe three conſiderable motives.</p>
+            <p n="1">1ſt. Upon the account of Duty.</p>
+            <p n="2">2dly. Of Intereſt.</p>
+            <p>And 3dly, Of Pleaſure</p>
+            <p n="1">1ſt then, The Pſalmiſt exhorts us <hi>to dwell together in <g ref="char:V">Ʋ</g>nity,</hi> upon the account of our duty; and this ſeems couched in the word <hi>Brethren, behold how good and how pleaſant it is, for Brethren to dwell together in <g ref="char:V">Ʋ</g>nity!</hi>
+            </p>
+            <p>The Relation of Brethren is ſo cloſe and intimate, that we find it generally made uſe of to expreſs the ſtricteſt tye of tenderneſs and affection; and <hi>Brotherly love</hi> through<g ref="char:EOLhyphen"/>out the whole Goſpel, is uſed to ſignifie the moſt perfect Union, attended with all offices of kindneſs and endearment: and therefore where-ever this Relation is found love and agreement ſhould be its neceſſary conſe<g ref="char:EOLhyphen"/>quences;
+<pb n="6" facs="tcp:40800:6"/>but the engagements of this nature are too numerous and too preſſing, for us ever to be able to diſentangle our ſelves from them; every perſon in the Holy Trinity, ſeeming with a ſort of Rivalſhip to contend, which ſhall lay upon us the ſtrongeſt obliga<g ref="char:EOLhyphen"/>tions, <hi>to dwell together in <g ref="char:V">Ʋ</g>nity, as Brethren.</hi>
+            </p>
+            <p>
+               <hi>God the Father,</hi> who is the God of Unity and Love, being deſirous to unite the whole race of mankind, in indiſſoluble bonds of Amity and Friendſhip, <hi>made at firſt of one blood all the nations of the earth;</hi> that by ſo near a re<g ref="char:EOLhyphen"/>lation he might faſten their affections, and tye and rivet them to one another: Thus we are all the children of one common parent, we are all the workmanſhip of one great Cre<g ref="char:EOLhyphen"/>ator, and the equalcare of one watchful Pro<g ref="char:EOLhyphen"/>vidence; and therefore for us to be unwil<g ref="char:EOLhyphen"/>ling to perform mutual offices of love to one another, would appear as unreaſonable and unnatural, as if the ſeveral branches of ſome large family, ſhould refuſe to keep up an ami<g ref="char:EOLhyphen"/>cable correſpondence, and renounce all ex<g ref="char:EOLhyphen"/>preſſions of tenderneſs and affection: for ſuch and ſo great is our obligation, jointly to con<g ref="char:EOLhyphen"/>ſult one anothers advantages, if we conſider
+<pb n="7" facs="tcp:40800:6"/>our ſelves as <hi>Brethren by Creation.</hi>
+            </p>
+            <p>But farther, <hi>God the Son,</hi> the great Example and promoter of Union, when he perfected the work of our Redemption, did cloſely in<g ref="char:EOLhyphen"/>corporate all his followers, and make them members of one myſtical body: Thus all of us are bone of one anothers bone, and fleſh of one anothers fleſh; <hi>that ſo whether one of us ſuffer or be honoured, the reſt of us might mourn or rejoice along with him:</hi> and therefore for ſome of us to divide our ſelves from the reſt, or to ſeem to be acted by dif<g ref="char:EOLhyphen"/>ferent intereſts, is every whit as ſtrange and unaccountable, as if the hand ſhould refuſe to provide for the belly, or the eyes deny to direct the feet; as if every member ſhould ſet up for it ſelf, and act independently from the others: For equal is the obligation that lies upon us to be mutually beneficial to one another; ſince we are all members of that body of which Chriſt is the head, and are moſt nearly related as <hi>Brethren by Redemption.</hi> But farther yet, <hi>God the Holy Ghoſt,</hi> who is the great inſpirer of love and concord, and whoſe chief and peculiar employment it is,
+<pb n="8" facs="tcp:40800:7"/>to advance the ſtrict fellowſhip and commu<g ref="char:EOLhyphen"/>nion of Saints, has united us more cloſely than into one Body, by joining us together in one Soul and Spirit: Thus all of us ſhould be acted by the ſame affections, all of us ſhould be ſenſible of the ſame impreſſions, and the <hi>ſame mind ſhould be in every one of us, whether to will or to do:</hi> and therefore to e<g ref="char:EOLhyphen"/>ſtrange ourſelves from one another, or to be unwilling to diſcharge due offices of affecti<g ref="char:EOLhyphen"/>on, is a proceeding as prepoſterous and abſurd, as if the Underſtanding ſhould refuſe to guide the Will, or the Judgment deny to give aſ<g ref="char:EOLhyphen"/>ſiſtance to the Memory; as if ſome of the fa<g ref="char:EOLhyphen"/>culties of the ſoul ſhould neglect to contri<g ref="char:EOLhyphen"/>bute to the advantages of the others: for no leſs binding is our obligation, to be mu<g ref="char:EOLhyphen"/>tually ſerviceable to one another, ſince we are all partakers of the ſame Spirit, and moſt ſtrictly united as <hi>Brethren by Sanctification.</hi> Thus every perſon in the Bleſſed Trinity lays upon us a diſtinct and particular engage<g ref="char:EOLhyphen"/>ment, to be converſant in the duties of a Brotherly affection, twiſting together <hi>a three<g ref="char:EOLhyphen"/>fold cord of love, which</hi> the wiſe man tells us, <hi>is not quickly to be broken.</hi>
+            </p>
+            <pb n="9" facs="tcp:40800:7"/>
+            <p>Theſe are thoſe large and ſpreading obli<g ref="char:EOLhyphen"/>gations, by which we are engaged to live like <hi>Brethren,</hi> either as we are Men, or as we are Chriſtians, or as we are influenced by the Spirit of God: but there are ſome additional conſiderations, of an extent more narrow and contracted, which give yet greater weight to the Pſalmiſts exhortation, and more forci<g ref="char:EOLhyphen"/>bly exact the performance of this duty; and that is, when particular perſons have formed themſelves into one common Society; mu<g ref="char:EOLhyphen"/>tually covenanting with one another, hearti<g ref="char:EOLhyphen"/>ly to promote each others advantages, and carefully to advance the intereſts of that Bro<g ref="char:EOLhyphen"/>therhood: the ſeveral members of ſuch a Body, have to their <hi>Natural</hi> and <hi>Spiritual</hi> affinity, ſuperinduced a freſh Relation as <hi>ci<g ref="char:EOLhyphen"/>vil Brethren;</hi> and therefore cannot tranſgreſs againſt this duty of <hi>dwelling together in <g ref="char:V">Ʋ</g>nity,</hi> without adding to the violation of their other obligations, the breach of their voluntary ſtipulation and agreement. And thus much ſhall ſuffice for the firſt motive to Unity laid down in the Text, which is drawn from the conſideration of our duty, as we are <hi>Brethren.</hi>
+            </p>
+            <pb n="10" facs="tcp:40800:8"/>
+            <p>(2dly) A ſecond motive which the Text affords us, is taken from the conſideration of our true intereſt, <hi>Behold how good and how pleaſant it is</hi>
+            </p>
+            <p>The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which we render <hi>good,</hi> has a double ſignification, either of excellency or advantage; and which way ſoever we conſider it, we ſhall find it our intereſt to be converſant in it; for as the meaneſt and moſt groveling Souls will readily confeſs, that it is our intereſt to practice that, from whence we may reap ſome ſenſible ad<g ref="char:EOLhyphen"/>vantage; ſo any generous Spirit will ac<g ref="char:EOLhyphen"/>knowledge, that it is our trueſt intereſt to be employed about that which is excellent in its nature.</p>
+            <p>Firſt then, it is our intereſt <hi>to dwell together in <g ref="char:V">Ʋ</g>nity,</hi> becauſe it is a duty ſo excellent in its nature.</p>
+            <p>When Brethren are acted by the ſame in<g ref="char:EOLhyphen"/>tereſts, and mutually animated with the ſame deſigns, they make that earthly ſociety a tranſcript of heaven, and are poſſeſt of a condition that is purely celeſtial: Thoſe eter<g ref="char:EOLhyphen"/>nal manſions of peace and happineſs are only
+<pb n="11" facs="tcp:40800:8"/>filled with conſenting minds, whoſe inclina<g ref="char:EOLhyphen"/>tions tend to the ſame object, who are ra<g ref="char:EOLhyphen"/>viſh'd with the contemplation of each others felicity, and who rejoycing in the joy of their fellow-angels, multiply and encreaſe their own enjoyments, by the ſhare which they take in the happineſs of others: and what greater excellency can humane nature aim at, than an exact reſemblance to thoſe Angelical beings? What exerciſe can appear more emi<g ref="char:EOLhyphen"/>nent or illuſtrious, than that which makes us live here like thoſe bleſſed Spirits, and quali<g ref="char:EOLhyphen"/>fies us hereafter for their ſociety and conver<g ref="char:EOLhyphen"/>ſation. For as this is the great entertainment of heaven, ſo it is the ſtrait road that leads directly thither; our Saviour has aſſign'd it as the character of his followers, the mark by which he has diſtinguiſh'd them from the reſt of mankind: This is that livery of the Prince of peace, by which we are acknow<g ref="char:EOLhyphen"/>ledged to be of his family; <hi>by this</hi> (ſays he) <hi>ſhall men know that ye are my diſciples, if ye love one another.</hi> This plains all the rugged<g ref="char:EOLhyphen"/>neſs and unevenneſs of our nature, and im<g ref="char:EOLhyphen"/>plants in us an obſiging benignity of mind;
+<pb n="12" facs="tcp:40800:9"/>it roots out of our Souls thoſe perverſe prin<g ref="char:EOLhyphen"/>ciples of ſelf-love and ſelf-intereſt, and gives us in their room that God-like quality, of being diffuſive and communicative of good. Thus does this great and excellent duty dig<g ref="char:EOLhyphen"/>nifie and exalt our corrupted nature, to<g ref="char:EOLhyphen"/>wards the ancient ſtandard of its original per<g ref="char:EOLhyphen"/>fection; nay, ſeems to advance it to a higher level, even to a partial reſemblance of God himſelf, For God is Unity in its moſt abſo<g ref="char:EOLhyphen"/>lute perfection. But</p>
+            <p>Secondly, It is our intereſt <hi>to dwell toge<g ref="char:EOLhyphen"/>ther in <g ref="char:V">Ʋ</g>nity,</hi> becauſe it is a duty ſo very ad<g ref="char:EOLhyphen"/>vantageous.</p>
+            <p>There is no part of our Chriſtian duty, which reflects greater profit upon its practiti<g ref="char:EOLhyphen"/>oners, or pays their obedience with more ad<g ref="char:EOLhyphen"/>vantages, than that which my Text recom<g ref="char:EOLhyphen"/>mends to our performance. Beſides its con<g ref="char:EOLhyphen"/>formity to the divine will, by which it qua<g ref="char:EOLhyphen"/>lifies for eternal rewards, it is attended with ſuch bleſſings even in this life, as may power<g ref="char:EOLhyphen"/>fully enforce the practice of it. As diſſention is the ruine of all Societies, ſo Union and agreement are the ſupporters of them: by
+<pb n="13" facs="tcp:40800:9"/>this ſo many Kingdoms and Commonwealths have crept on from weak and inconſiderable beginnings, to the higheſt pitch of majeſty and ſplendour; by this they have been raiſed, by this upheld; and when this has ceaſed, they have ſunk down into deſtruction. By this, Men, who otherwiſe, like Bears and Tygers, would converſe with fear, and at a diſtance, become not only uſeful and ſociable Creatures, but ſo many Angels, miniſtring to the happineſs of one another: If immi<g ref="char:EOLhyphen"/>nent dangers are to be reſiſted, united forces are beſt able to oppoſe them; if bleſſings are to be implored, or judgments deprecated, united prayers will intercede moſt ſucceſs<g ref="char:EOLhyphen"/>fully; if important deſigns are to be carried on, united counſels will compleat them moſt effectually. How ſhall he fall, that has a multitude of ſupporters! or ſuppoſe he ſlip, how ſhall he be kept down, who has ſo ma<g ref="char:EOLhyphen"/>ny hands to lift him up again! Unity either obviates all inconveniences, or adminiſters to them a ſpeedy remedy; and therefore he that conſults his own true intereſt, will be probably induced to be converſant in it, up<g ref="char:EOLhyphen"/>on
+<pb n="14" facs="tcp:40800:10"/>the account of its advantage. And thus much for the ſecond motive to our perfor<g ref="char:EOLhyphen"/>mance of this duty, drawn from the conſi<g ref="char:EOLhyphen"/>deration of our intereſt, becauſe <hi>it is a good thing to dwell in <g ref="char:V">Ʋ</g>nity</hi> But</p>
+            <p>(3dly) A third motive which the Text af<g ref="char:EOLhyphen"/>fords us, is borrowed from the conſideration of our pleaſure and ſatisfaction: <hi>Behold how good and how pleaſant it is.</hi>
+            </p>
+            <p>No circumſtances can be more deſirable, no condition more alluring, than the calm eſtate of that happy man, who has made it his buſineſs to <hi>dwell in <g ref="char:V">Ʋ</g>nity.</hi> He enjoys all the advantages and ſatisfactions, which are poſſeſſed by thoſe with whom he is united; He is enriched with their wealth, he is ad<g ref="char:EOLhyphen"/>vanced with their honour, he is diverted with their pleaſure, and becomes happy by their felicity: he is free from all that ſowr<g ref="char:EOLhyphen"/>neſs and bitterneſs of Soul, which palls the reliſh of the moſt eminent enjoyments, and daſhes them all with gall and wormwood: Envy, that reſtleſs racking paſſion, is an ut<g ref="char:EOLhyphen"/>ter ſtranger to his quiet breaſt, which is only <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>led with the bleſſed <hi>fruits of the ſpirit of</hi>
+               <pb n="15" facs="tcp:40800:10"/>Unity, <hi>Love and joy and peace.</hi> If he looks abroad, he views no objects, but ſuch as ad<g ref="char:EOLhyphen"/>miniſter to his ſatisfaction; he loves and is belov'd with equal ardour; he ſtudiouſly endeavours to promote the good of others, and ſees them as eager in the advancement of his: if he turns his eyes into his own boſom, he ſees nothing there but calmneſs and tran<g ref="char:EOLhyphen"/>quility; and finds within himſelf an abridg<g ref="char:EOLhyphen"/>ment of that happineſs, which his darling (Unity) would ſettle in the world: There, as in a regular and affectionate ſociety, no tumults or diſorders are to be met with; there is no claſhing of different intereſts, no violent engagements of contending paſſions, to diſturb the native quiet of the place, and introduce diſorders and confuſions; but the ſuperiour powers rule eaſily, and the inferi<g ref="char:EOLhyphen"/>our ones obey willingly; and all things are managed with that agreeable ſweetneſs, as ſufficiently convinces the happy poſſeſſor of theſe advantages, <hi>how pleaſant a thing it is to dwell in <g ref="char:V">Ʋ</g>nity.</hi> But the greateſt and moſt ſo<g ref="char:EOLhyphen"/>lid ſatisfaction, which ariſes from the due performance of this duty, is yet behind; and
+<pb n="16" facs="tcp:40800:11"/>that is, the aſſurance which ſuch a man has, that while he is buſied in ſo delightful an employment, he is alſo conſulting his ever<g ref="char:EOLhyphen"/>laſting happineſs; and recommends himſelf effectually to the favor of his God, while he makes himſelf thus eaſie to others and him<g ref="char:EOLhyphen"/>ſelf: That the pleaſures which he now feels in the diſcharging of his duty, are but ſo many taſtes and prelibutions of thoſe raptures which ſhall reward it; and only prepare him for the fellowſhip of thoſe United Souls, who <hi>in the preſence of God, have fullneſs of joy,</hi> and <hi>at his right hand are poſſeſſed of pleaſures for evermore.</hi> And thus much ſhall ſuffice for the third mo<g ref="char:EOLhyphen"/>tive laid down for the performance of this duty, drawn from the conſideration of its delightfulneſs; becauſe <hi>it is a pleaſant thing to dwell in <g ref="char:V">Ʋ</g>nity.</hi> I might here attempt to ſet off the great value of this duty, by reckon<g ref="char:EOLhyphen"/>ing up the inconveniences of the contrary Vice, and ſhewing the ill effects of diſcord and diviſion; but that I think it is lovely enough, conſidered in it ſelf, and needs no foil, no Painters are of ſhades and darker co<g ref="char:EOLhyphen"/>lours, to give theſe lighter ones more brisk<g ref="char:EOLhyphen"/>neſs
+<pb n="17" facs="tcp:40800:11"/>and vivacity: if the obligations of Du<g ref="char:EOLhyphen"/>ty, if the engagements of Intereſt, if the allurements of Pleaſure, which uſe to be the ſtrongeſt and moſt perſwaſive motives, can influence our Souls to the practice of any Ver<g ref="char:EOLhyphen"/>tue, they all appear in behalf of this: and oh! that all theſe conſiderations could work upon this whole Nation in general, and upon every one of us in particular, to be duly con<g ref="char:EOLhyphen"/>verſant in the performance of it! to lay aſide all hatreds and animoſities, all contrary de<g ref="char:EOLhyphen"/>ſigns of parties and of factions, and to be in<g ref="char:EOLhyphen"/>timately ſaſten'd to one another, with the bands of amity and <hi>brotherly love!</hi> Then ſhould we all be convinced, by an experi<g ref="char:EOLhyphen"/>ence the ſureſt and the happieſt of any, <hi>how good and how pleaſant it is, for brethren to dwell together in <g ref="char:V">Ʋ</g>nity;</hi> and the moſt lofty com<g ref="char:EOLhyphen"/>pariſon would ſcarce ſeem ſufficient to ſhadow forth the happineſs of ſuch a condition. And this leads me to the ſecond General Head which I propoſed to diſcourſe upon, namely,</p>
+            <p>Secondly, To conſider that elegant alluſion, which the Pſalmiſt makes uſe of to illuſtrate this duty, together with its agreeableneſs to
+<pb n="18" facs="tcp:40800:12"/>the preſent occaſion. <hi>It is like the precious Oyntment upon the head, which ran down upon the beard, even Aarons beard, and that went down to the skirts of his garments.</hi>
+            </p>
+            <p>And here, the firſt thing that ſeems worthy of our obſervation, in this elegant alluſion of the Pſalmiſt, is the value and excellency of that thing, to which he compares the <hi>
+                  <g ref="char:V">Ʋ</g>nity of Brethren. It is like the precious Oyntment.</hi>
+            </p>
+            <p>This <hi>precious Oyntment,</hi> to which the Pſalm<g ref="char:EOLhyphen"/>iſt alludes, was that which was prepar'd by Gods expreſs command, and ſet apart for the anointing of the High-Prieſt himſelf; toge<g ref="char:EOLhyphen"/>ther with ſuch other perſons and things, as were to be accounted <hi>moſt holy;</hi> it was not to be applied to any common uſe, under the ſevereſt and moſt heavy penalties; <hi>whoſo<g ref="char:EOLhyphen"/>ever compounded any like it or whoſoever put any of it upon a ſtranger, was even to be cut off from his people,</hi> as you may ſee at large in the 30th of <hi>Exodus.</hi> It was reckoned amongſt the choiceſt and moſt eſtimable treaſures; thus we are informed in the 39th of <hi>Iſaiah,</hi> that when <hi>Hezekiah</hi> had received Embaſſa<g ref="char:EOLhyphen"/>dors from <hi>Merodach-Baladan,</hi> King of <hi>Baby<g ref="char:EOLhyphen"/>lon,
+<pb n="19" facs="tcp:40800:12"/>he ſhewed them the houſe of his precious things, the Silver, and the Gold, and the Spices, and the precious Oyntment:</hi> Nothing of low price was allowed of in its compoſition; but it was made up of the choiceſt and moſt coſtly ingredients, <hi>of pure Myrrhe, ſweet Cin<g ref="char:EOLhyphen"/>namon, ſweet Calamus, Caſſia, and Oyl-Olive:</hi> ſuch was the excellency of this <hi>precious Oynt<g ref="char:EOLhyphen"/>ment,</hi> to which the Pſalmiſt compares the <hi>
+                  <g ref="char:V">Ʋ</g>nity of Brethren;</hi> and it may ſuffice to con<g ref="char:EOLhyphen"/>vince us how venerable an Idea the Royal Prophet entertained of the eminency of that bleſſing, which he endeavours to illuſtrate by ſo valuable a compariſon: <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> then, is in<g ref="char:EOLhyphen"/>deed like this <hi>precious Oyntment,</hi> with which only thoſe are anointed whom God deſings peculiarly to favour; it ought to be eſteem'd amongſt our chiefeſt treaſures, and find a place amongſt our moſt valuable poſſeſſions; and its compoſition ought to be of ſuch only who are qualified by their intrinſick value, and have a character of worth to recommend them. But</p>
+            <p n="2">2dly, Another thing obſervable in this Al<g ref="char:EOLhyphen"/>luſion, is the <hi>delightfulneſs</hi> of that thing, to
+<pb n="20" facs="tcp:40800:13"/>which the Pſalmiſt here compares the <hi>
+                  <g ref="char:V">Ʋ</g>nity of Brethren.</hi>
+            </p>
+            <p>If we will look back and conſider the in<g ref="char:EOLhyphen"/>gredients of which it was compounded, we ſhall find it made up of <hi>Perfumes and Oyl;</hi> the former are proper to delight the ſences not only of our ſelves but of others too, by ſpread<g ref="char:EOLhyphen"/>ing abroad their grateful odour; the latter was made uſe of to refreſh and exhilerate, to <hi>cauſe the face to ſhine,</hi> and <hi>to give a chearful countenance:</hi> and therefore from the conſide<g ref="char:EOLhyphen"/>ration of this we may infer how due a notion the Pſalmiſt had, of that <hi>pleaſure</hi> which reſulted from the <hi>
+                  <g ref="char:V">Ʋ</g>nity of Brethren,</hi> by com<g ref="char:EOLhyphen"/>paring it to that which was ſo very <hi>delightful: <g ref="char:V">Ʋ</g>nity</hi> then is indeed like an odorous <hi>Oyntment,</hi> whoſe grateful ſweetneſs entertains both our ſelves and others; and whoſe balmly ſoftneſs, not only ſpreads upon the face the joyful live<g ref="char:EOLhyphen"/>ry of mirth and chearfulneſs; but fills the heart too (like <hi>the Oyl of gladneſs</hi>) with a large meaſure of briskneſs and alacrity. And to theſe two qualities of this Oyntment, its <hi>pre<g ref="char:EOLhyphen"/>ciouſneſs</hi> and <hi>delightfulneſs,</hi> the Pſalmiſt un<g ref="char:EOLhyphen"/>doubtedly refers in his character of <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi>
+               <pb n="21" facs="tcp:40800:13"/>when he tells us <hi>how good and how pleaſant it is.</hi> But</p>
+            <p n="3">3dly, There is yet another thing obſerva<g ref="char:EOLhyphen"/>ble in this Alluſion and that is a deſcription of the <hi>diſſuſiveneſs</hi> of this <hi>Oyntment.</hi>
+            </p>
+            <p>We are told, that this <hi>precious Oyntment,</hi> tho it <hi>was poured upon Aarons head,</hi> yet was it not confined wholly to that, but <hi>ran down up<g ref="char:EOLhyphen"/>on</hi> his other parts, (his <hi>beard</hi> for inſtance); nor only ſo, but was communicated, in ſome meaſure, to ſuch things as had the remoteſt relation to him, it <hi>went down even to the skirts of his garments.</hi> And this may ſerve to let us underſtand, how juſt an apprehenſion the Pſalmiſt had, of the largeneſs and <hi>extenſive<g ref="char:EOLhyphen"/>neſs</hi> of thoſe benefits, which are the neceſſary conſequences of this <hi>
+                  <g ref="char:V">Ʋ</g>nity of Brethren. <g ref="char:V">Ʋ</g>nity</hi> then is indeed like that <hi>precious Oyntment,</hi> which, tho it enriches the <hi>head,</hi> the uppermoſt and governing members, with the larg<g ref="char:EOLhyphen"/>eſt ſtock of refreſhing moiſture, tho it imparts to them its moſt conſiderable advantages; yet has it a due and proportionable reſpect, to the benefit and intereſt of ſubordinate and inferious ones, it <hi>runs down</hi> upon them alſo;
+<pb n="22" facs="tcp:40800:14"/>nay, it has a regard even to all ſuch as have any diſtant dependance upon them, and are therefore compared but to <hi>the skirts of their garments;</hi> and this conſideration ſhould have a double good effect; firſt, upon the ſuperiors and governors in a Society; to inform them, that they muſt not think to engroſs to them<g ref="char:EOLhyphen"/>ſelves the entire advantages of ſuch a <hi>
+                  <g ref="char:V">Ʋ</g>nion;</hi> that they have indeed a juſt pretenſion to thoſe that are greateſt and moſt conſiderable, but not ſo as to exclude their inferiour bre<g ref="char:EOLhyphen"/>thren from ſuch meaner benefits as are juſtly their right; but they ought to underſtand, that this <hi>precious Oyntment</hi> is poured upon them, not to reſt there and proceed no fur<g ref="char:EOLhyphen"/>ther, but to deſcend from them upon the reſt of the Society. Secondly, This conſideration ſhould have a good effect upon ſuch as are the inferiour members. They ought to re<g ref="char:EOLhyphen"/>flect how juſt it is, that there ſhould be dif<g ref="char:EOLhyphen"/>ferences of advantages as well as of degrees, that a <hi>ruling</hi> member <hi>is worthy of double honour;</hi> and therefore ſhould never repine nor mur<g ref="char:EOLhyphen"/>mur, that that is not <hi>poured</hi> immediately <hi>upon</hi> them, which is only deſigned to <hi>run down to
+<pb n="23" facs="tcp:40800:14"/>them;</hi> but ſhould rather rejoice, to ſee this <hi>precious Oyntment</hi> ſhed largely upon their Go<g ref="char:EOLhyphen"/>vernours, that ſo the greater proportion of it may deſcend upon themſelves.</p>
+            <p>And theſe are the things which ſeem moſt obſervable in this elegant alluſion of the Pſal<g ref="char:EOLhyphen"/>miſt, its <hi>excellency,</hi> its <hi>delightfulneſs,</hi> and the <hi>diffuſiveneſs</hi> of its advantages.</p>
+            <p>I ſhall conclude this diſcourſe, by endea<g ref="char:EOLhyphen"/>vouring to make out the agreeableneſs of this Alluſion with the preſent occaſion.</p>
+            <p>As this Alluſion, conſidered in its general extent, is juſtly applicable to any body of men, who are met together with amicable intenti<g ref="char:EOLhyphen"/>ons, for the advancement of <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>bro<g ref="char:EOLhyphen"/>therly love;</hi> ſo, if we will examine it a little more particularly, we ſhall diſcover ſome cir<g ref="char:EOLhyphen"/>cumſtances which more nicely appropriate it to that worthy ſociety of ingenious Artiſts, of whom the preſent aſſembly is principally compoſed. If we will look back to my for<g ref="char:EOLhyphen"/>mer quotation, in <hi>Exod.</hi> 30. we ſhall find the <hi>precions Oyntment</hi> which is mentioned in my Text, there termed <hi>an Oyntment compounded after the art of the Apothecary;</hi> the Alluſion (my
+<pb n="24" facs="tcp:40800:15"/>brethren) is borrowed from your own calling, and therefore ſeems to enforce the duty which it reſembles, more homely and preſſingly up<g ref="char:EOLhyphen"/>on yourſelves: If therefore the juſteſt <hi>compa<g ref="char:EOLhyphen"/>riſon</hi> of <hi>brotherly love,</hi> be taken from your <hi>pro<g ref="char:EOLhyphen"/>feſſion;</hi> let the higheſt example of it be made viſible in your <hi>practice;</hi> let not the works of your vocation <hi>riſe up in judgment agaïnſt you,</hi> and upbraid you for neglecting the duty they repreſent; your conſtant employment reads a daily lecture to you of unity and love; and you will be wholly inexcuſable if you at<g ref="char:EOLhyphen"/>tend not to its kind inſtructions. Let not then, I beſeech you, a Society, ſo juſtly re<g ref="char:EOLhyphen"/>commended to the good opinion of the world, by the worth and learning of its ingenious members; by the uſefulneſs and honourable<g ref="char:EOLhyphen"/>neſs of the Art it profeſſes; by the impor<g ref="char:EOLhyphen"/>tance of that end to which its ſtudies are directed, (the preſerving or reſtoring the greateſt temporal bleſſing, Health;) Let not this (I ſay) be defective in the main qua<g ref="char:EOLhyphen"/>lification which can make it valuable <hi>as a Society,</hi> that of <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> or <hi>brotherly love:</hi> You are not only oblig'd to it, with the reſt of
+<pb n="25" facs="tcp:40800:15"/>mankind, as ye are men, with all profeſſors of the Faith as ye are Chriſtians, with the whole number of the elect, as influenced by Gods Spirit; but as ye are a diſtinct corpo<g ref="char:EOLhyphen"/>ration, who have enter'd into a covenant for the performance of this duty; and as ye are the particular Society of <hi>Apothecaries,</hi> out of whoſe profeſſion it has pleaſed God to chuſe the moſt appoſite ſimilitude of an affectionate <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi> In order to engage you to it, be pleaſed to conſider, that it is with leſſer Societies as it is with King<g ref="char:EOLhyphen"/>doms, <hi>That which is divided againſt itſelf cannot ſtand:</hi> the moſt deſerving perſons are generally the objects of envy, and therefore this Society being made up of ſuch, cannot be ſuppoſed to be exempted from it; It is not long ſince we have experienced the truth of this obſervation; and what ſo ſecure a de<g ref="char:EOLhyphen"/>fence againſt the envy and malice of others, as a happy Union amongſt yourſelves? The government of theſe Kingdoms has lately been pleaſed to fix a diſtinguiſhing mark of favour upon you; and it lies in your power to over pay this obligation, by ſetting an ex<g ref="char:EOLhyphen"/>ample
+<pb n="26" facs="tcp:40800:16"/>of Unity and Concord to the whole Nation. Thus much I offer to your conſide<g ref="char:EOLhyphen"/>ration, as you are a <hi>Society,</hi> a <hi>body</hi> of men; give me leave to add a word or two, as you are particular <hi>Members</hi> of a Society.</p>
+            <p>We are told, in the compoſition of <hi>this precious Oyntment, this Oyntment compounded after the Art of the Apothecary,</hi> that all the in<g ref="char:EOLhyphen"/>gredients were very valuable; each of them by themſelves had an intrinſick worth, which made the Union of them be ſo very conſide<g ref="char:EOLhyphen"/>rable: Let this, I entreat you, perſwade eve<g ref="char:EOLhyphen"/>ry one of you, to qualifie yourſelves in your private capacities, with ſuch peculiar vertues and abilities, as may make you both uſeful and worthy members of that Society, into which you are incorporated: Sometimes it is uſual to mix together ſuch Drugs as are of different and contrary natures, and ſome of them ſuch as would be noxious of them<g ref="char:EOLhyphen"/>ſelves, unleſs they were corrected by the wholeſomeneſs of others; and this kind of preſcription may do well for <hi>Phyſick,</hi> but will never ſerve to make up ſuch an <hi>Oyntment,</hi> as may fitly repreſent the <hi>
+                  <g ref="char:V">Ʋ</g>nity of brethren:</hi>
+               <pb n="27" facs="tcp:40800:16"/>all the Ingredients here ſhould be of a ſalubri<g ref="char:EOLhyphen"/>ous nature, ſhould have an amiable mixture of ſoftneſs and of ſweetneſs; ſince where the caſe is otherwiſe, and the diſpoſitions turbulent, they are ſo far from being ſit to advance the good of a Society, that they rather corrupt, and make it noiſome; they reſemble not the compounds of this <hi>precious Oyntment,</hi> but are <hi>like the dead flies</hi> (of which the wiſe man ſpeaks) <hi>that cauſe this precious Oyntment, this Oyntment of the Apothecaries, to ſend forth a ſtink<g ref="char:EOLhyphen"/>ing ſavour. Nulla eſt amicitia inter malos,</hi> ſays the Aphoriſm; I may add, <hi>nec inter male moratos;</hi> Friendſhip, the foundation of all Societies, is ſupported by Vertue, and by ſweetneſs of tem<g ref="char:EOLhyphen"/>per; and the ill and ill natur'd are both ex<g ref="char:EOLhyphen"/>cluded from it.</p>
+            <p>Let this then be a caution to every one of you, to bring along with you upon all occa<g ref="char:EOLhyphen"/>ſions, eſpecially upon thoſe wherein the Society is concerned, ſuch eaſie and complying tem<g ref="char:EOLhyphen"/>pers of mind, ſuch ſound and unprejudiced deſigns and reſolutions, of conſulting the pub<g ref="char:EOLhyphen"/>lick good of the whole Corporation, rather than any narrow or contracted intereſts; as
+<pb n="28" facs="tcp:40800:17"/>may fitly reſemble you to thoſe precious In<g ref="char:EOLhyphen"/>gredients, which God preſcribed for the com<g ref="char:EOLhyphen"/>pounding of that <hi>Oyntment,</hi> which was to be the Emblem of <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Love.</hi>
+            </p>
+            <p>May thus all of you in general, and each of you in particular, be converſant in all of<g ref="char:EOLhyphen"/>fices of brotherly affection; and by reſembling your expreſſions of it, to the commendable qualities of your own <hi>precious Oyntment,</hi> may you be ſenſible yourſelves, and demonſtrate to all others, <hi>How good and how pleaſant a thing it is, for Brethren to dwell together in <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>Conſider what has been ſaid and the Lord give you the will and the ability to practice.</p>
+            <p>
+               <hi>To God the Father, Son and Holy Ghoſt, be aſcribed all honour power might, majeſty and dominion, henceforth and for evermore,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
